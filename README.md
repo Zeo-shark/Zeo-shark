@@ -50,13 +50,16 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --!>
-                                                                                                                                                                                <a href="https://hritik5102.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a>                                                                                                                                                                              <a href="https://twitter.com/SouravB64676699"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/Zeo-shark"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/profile.php?id=100051105037729&ref=bookmarks"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://in.linkedin.com//"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>                                                       
-
+<!--                                                                                                                                                                                 <a href="https://hritik5102.github.io/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a>   -->                                                                                                                                                                            
+<a href="https://twitter.com/SouravB64676699"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/Zeo-shark"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/profile.php?id=100051105037729&ref=bookmarks"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://in.linkedin.com//"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>                                                      
+                                          
+                                                                                                              
 <div align="center">
 
 <img align="centre" src="https://github.com/Zeo-shark/Zeo-shark/blob/master/Developer.gif"/>
 
 </div>
+                                                                         
 
 <div align="center">
 
