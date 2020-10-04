@@ -28,14 +28,6 @@
 ### Top Languages I've Worked on!
 ![Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Zeo-shark&layout=compact&theme=chartreuse-dark)
 
-### Languages and Tools :computer:
-
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
-
 
 <!--Here are some ideas to get you started:
 
@@ -48,7 +40,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --!>
-<!--                                                                                                                                                                                 
+                                                                                                                                                                                                        
+:rocket:I will be glad to show you what I have done, but if you like it don't forget to give a :star: to my Projects.
+  
              
 
                                                                                                                                                                                 
