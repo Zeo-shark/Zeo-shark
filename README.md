@@ -25,7 +25,7 @@
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/Zeo-shark/Zeo-shark)*
                              
 ### Check my Stats!
-![Saswat Samal's Stats](https://github-readme-stats.vercel.app/api?username=Zeo-shark&show_icons=true&theme=chartreuse-dark)
+<!-- ![Saswat Samal's Stats](https://github-readme-stats.vercel.app/api?username=Zeo-shark&show_icons=true&theme=chartreuse-dark)-->
 <!--[![Sourav Bera's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/zeoshark)-->
 ### Top Languages I've Worked on!
 ![Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Zeo-shark&layout=compact&theme=chartreuse-dark)
