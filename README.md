@@ -11,6 +11,8 @@
 - 📫 How to reach me: sauravberaiit@gmail.com 😀
 - 😄 Pronouns: He/His/Him/Mr.
 - ⚡ Fun fact: I like to turn coffee to code! 🤐😬
+- ⚙️ I code in : `.cpp`, `.java`, `.xml`, `.dart`, `.html`, `.css`, `.sql`
+- ⚙️ Learning app devlopment and making apps.
 
 ### About me :eyes:
 
@@ -30,6 +32,10 @@
 ### Top Languages I've Worked on!
 ![Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Zeo-shark&layout=compact&theme=chartreuse-dark)
 
+#### Find me around the web 🌎:
+- 💼 <a href="https://www.linkedin.com/in/sourav-bera-a61186195/">LinkedIn</a>
+- 🌐 <a href="souravberacv.ml">Sourav Bera</a>
+- ☕ Have a Coffee with me : Email-sauravberaiit@gmail.com
 
 <!--Here are some ideas to get you started:
 
