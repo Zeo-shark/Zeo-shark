@@ -1,6 +1,6 @@
     
 ![Sourav Bera](https://github.com/Zeo-shark/Zeo-shark/blob/master/My%20Links.jpg?s=50)
-[![Twitter Follow](https://badgen.net/twitter/follow/TweetSauravBera)](https://https://twitter.com/TweetSauravBera)
+[![Twitter Follow](https://badgen.net/twitter/follow/TweetSauravBera)](https://twitter.com/TweetSauravBera)
 [![https://badgen.net/badge/color/Visit%20my%20site!/black?icon=bitcoin-lightning&label=souravbera](https://badgen.net/badge/color/Visit%20my%20site!/black?icon=bitcoin-lightning&label=souravbera)](https://github.com/Zeo-shark)
    
 ### Hi there 👋', I'm Sourav Bera.Welcome to my Profile's README!!     
