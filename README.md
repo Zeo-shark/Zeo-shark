@@ -1,11 +1,11 @@
     
 ![Sourav Bera](https://github.com/Zeo-shark/Zeo-shark/blob/master/My%20Links.jpg?s=50)
-[![Twitter Follow](https://badgen.net/twitter/follow/SouravB64676699)](https://twitter.com/SouravB64676699)
+[![Twitter Follow](https://badgen.net/twitter/follow/TweetSauravBera)](https://https://twitter.com/TweetSauravBera)
 [![https://badgen.net/badge/color/Visit%20my%20site!/black?icon=bitcoin-lightning&label=souravbera](https://badgen.net/badge/color/Visit%20my%20site!/black?icon=bitcoin-lightning&label=souravbera)](https://github.com/Zeo-shark)
    
 ### Hi there 👋', I'm Sourav Bera.Welcome to my Profile's README!!     
     
-[![Hits](https://profile-counter.glitch.me/saswatsamal/count.svg)](http://saswatsamal.me)
+[![Hits](https://profile-counter.glitch.me/Zeo-shark/count.svg)](http://Zeo-shark.me)
 - 🔭 I’m currently a Under Graduate Student at ITER, SOA University.
 - 🌱 I’m currently learning Python and Machine Learning.
 - 📫 How to reach me: sauravberaiit@gmail.com 😀
